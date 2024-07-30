@@ -113,6 +113,6 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project by<br/>
-                                                                                                         <b>Sourabh Shinde</b>
+                                                                                                         <b>Sourabh Shinde under the guidance og bittercode</b>
 
 
